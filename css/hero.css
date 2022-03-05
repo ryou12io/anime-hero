@@ -1,0 +1,68 @@
+html, body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+
+header{
+    background-color: #46B077;
+    padding: 40px;
+    text-align: center;
+}
+
+h1{
+    font-size: 90px;
+    color: blacks;
+}
+
+header img{
+    border-radius: 80px;
+    width: 300px;
+    border: 21px solid black;
+}
+
+.content{
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+img.Big-image{
+    max-width: 100%;
+}
+p.caption{
+    font-size: 16px;
+    color: #46B077;;
+    font-style: italic;
+}
+
+ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+a{
+    color: #46B077;
+    text-decoration: none;
+}
+
+footer{
+    padding: 40px 20px;
+    background-color: #e6e6e6;
+    margin: 20px;
+}
+
+footer ul{
+    text-align: center;
+}
+
+footer ul li{
+    display: inline-block;
+    margin: 0 5px;
+}
+
+/*<header>
+                <img src="https://bit.ly/3IBpcXP">
+                <h1>Demon Slayer</h1>
+            </header>*/

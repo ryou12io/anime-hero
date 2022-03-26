@@ -62,8 +62,11 @@ footer ul li{
     margin: 0 5px;
 }
 
-.Tanjiro{
+img.TanjiroIMG{
     border-radius: 80px;
     width: 300px;
-    border: 21px solid black;
 }
+.TanjiroName{
+    font-size: 300%;
+}
+

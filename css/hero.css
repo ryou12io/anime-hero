@@ -62,7 +62,8 @@ footer ul li{
     margin: 0 5px;
 }
 
-/*<header>
-                <img src="https://bit.ly/3IBpcXP">
-                <h1>Demon Slayer</h1>
-            </header>*/
+.Tanjiro{
+    border-radius: 80px;
+    width: 300px;
+    border: 21px solid black;
+}
